@@ -1,10 +1,10 @@
 <h2> Hey, I'm John Hayden Nell. 👋
-<img align='right' src="https://media.giphy.com/media/0Jha9fTUCPfFXFKCUq/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy.gif" width="230">
 <p><em>DOST Scholar 1st Year BSIT Student at <a href="https://www.tup.edu.ph/">Technological University of the Philippines</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"  width="30"></br>SM Scholarship Qualifier <a href="https://www.sm-foundation.org/what_we_do/college-scholarship-program/">SM Scholarship </a><img src="https://media.giphy.com/media/WvZ3vqKKDcQOhUSk1h/giphy.gif" width="30"> 
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/WvZ3vqKKDcQOhUSk1h/giphy.gif" width="50"> A little more about me:
+### <img src="https://i.giphy.com/QsZol42CPIjMzke1QW.gif" width="50"> A little more about me:
 
 ```javascript
 const thai = {
