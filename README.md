@@ -5,9 +5,9 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · blixxar</sub></p>
 <h1>Blixxar</h1>
-<h2>Product-minded developer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h2>1st year BSIT Student</h2>
+<p>Building up skills and continuous improvements.</p>
+<p><strong>● DOST Scholar </strong></p>
 
 <p><a href="https://github.com/blixxar">GitHub</a></p>
 </td>
