@@ -1,7 +1,13 @@
-<h2> Hey, I'm John Hayden Nell. 👋
-<img align='right' src="https://i.giphy.com/WvZ3vqKKDcQOhUSk1h.gif" width="230">
-<p><em>DOST Scholar 1st Year BSIT Student at <a href="https://www.tup.edu.ph/">Technological University of the Philippines</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"  width="50"></br>SM Scholarship Qualifier <a href="https://www.sm-foundation.org/what_we_do/college-scholarship-program/">SM Scholarship </a><img src="https://i.giphy.com/lxxOGaDRk4f7R5TkBd.gif" width="50"> 
-</em></p>
+<h2>Hey, I'm John Hayden Nell. 👋</h2>
+<img align="right" src="https://media0.giphy.com/media/WvZ3vqKKDcQOhUSk1h/giphy.gif" width="230" />
+
+<p>
+  <em><b>DOST Scholar 1st Year BSIT Student at <a href="https://www.tup.edu.ph/">Technological University of the Philippines</a></b></em>
+  <img src="https://media0.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" />
+  <br />
+  <em><b>SM Scholarship Qualifier at <a href="https://www.sm-foundation.org/what_we_do/college-scholarship-program/">SM Foundation</a></b></em>
+  <img src="https://media0.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy.gif" width="30" />
+</p>
 
 
 ### <img src="https://i.giphy.com/QsZol42CPIjMzke1QW.gif" width="50"> A little more about me:
