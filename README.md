@@ -1,10 +1,10 @@
 <h2> Hey, I'm John Hayden Nell. 👋
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnB5dTQ0M2l3d2ZudGJ6bmc2ajFrNW9kYnRqcDRleGhteTZnankzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Jha9fTUCPfFXFKCUq/giphy.gif" width="230">
-<p><em>DOST Scholar 1st Year BSIT Student <a href="https://www.tup.edu.ph/">Technological University of the Philippines</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>SM Scholarship Qualifier <a href="https://www.sm-foundation.org/what_we_do/college-scholarship-program/"> </a><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRqcTRhem5zYnFxOHF5M2w0bTVnYXNxaHEzanhpdDRmemhscnJmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvZ3vqKKDcQOhUSk1h/giphy.gif" width="30"> 
+<img align='right' src="https://media.giphy.com/media/0Jha9fTUCPfFXFKCUq/giphy.gif" width="230">
+<p><em>DOST Scholar 1st Year BSIT Student at <a href="https://www.tup.edu.ph/">Technological University of the Philippines</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif"  width="30"></br>SM Scholarship Qualifier <a href="https://www.sm-foundation.org/what_we_do/college-scholarship-program/">SM Scholarship </a><img src="https://media.giphy.com/media/WvZ3vqKKDcQOhUSk1h/giphy.gif" width="30"> 
 </em></p>
 
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRqcTRhem5zYnFxOHF5M2w0bTVnYXNxaHEzanhpdDRmemhscnJmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WvZ3vqKKDcQOhUSk1h/giphy.gif" width="50"> A little more about me:
+### <img src="https://media.giphy.com/media/WvZ3vqKKDcQOhUSk1h/giphy.gif" width="50"> A little more about me:
 
 ```javascript
 const thai = {
