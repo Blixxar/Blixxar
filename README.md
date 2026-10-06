@@ -3,7 +3,7 @@
 
 <p>
   <em><b>DOST Scholar 1st Year BSIT Student at <a href="https://www.tup.edu.ph/">Technological University of the Philippines</a></b></em>
-  <img src="https://media0.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" />
+  <img src="https://media0.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy.gif" width="30" />
   <br />
   <em><b>SM Scholarship Qualifier at <a href="https://www.sm-foundation.org/what_we_do/college-scholarship-program/">SM Foundation</a></b></em>
   <img src="https://media0.giphy.com/media/lxxOGaDRk4f7R5TkBd/giphy.gif" width="30" />
