@@ -18,8 +18,6 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
-
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3>Role fit</h3><p>Skill-minded student</p></td>
@@ -49,7 +47,7 @@
 </p>
 
 <h2>Selected work</h2>
-<p>Public projects are still being indexed. Pin a few repositories to turn this section into a concise proof portfolio.</p>
+<p>Still working.</p>
 
 <h2>Technical toolkit</h2>
 
@@ -79,9 +77,7 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughts.</p></td>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/blixxar">GitHub</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>Blixxar · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
